@@ -1,17 +1,22 @@
 <div align="center">
 
 <a href="https://github.com/MasumRaj479">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Masum+Raj+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Computer+Science+Engineer;Building+AI-Powered+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1200&color=2F81F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Masum+Raj+%F0%9F%91%8B;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Computer+Science+Engineer;Building+AI-Powered+Solutions" alt="Typing SVG" />
 </a>
 
 ### B.Tech CSE Undergraduate | AI/ML | Full-Stack Development
 
 <p>
   <a href="https://github.com/MasumRaj479">
-    <img src="https://img.shields.io/badge/GitHub-MasumRaj479-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-MasumRaj479-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/masum-raj-50608b2b2/">
+    <img src="https://img.shields.io/badge/LinkedIn-Masum%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
   <a href="mailto:masumraj479@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -36,56 +41,147 @@ My work combines **AI with real-world applications**, including an AI-powered ac
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Programming Languages
+## 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,js" />
+<p align="left">
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50"/>
+</a>
+
 </p>
 
-### AI / Machine Learning
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,opencv" />
+## 🤖 AI / Machine Learning
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50"/>
+</a>
+
+<a href="https://opencv.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="50"/>
+</a>
+
 </p>
 
-`CNN` · `YOLOv8` · `Computer Vision` · `Google Gemini API`
-
-### Full-Stack Development
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,vite,nodejs,express" />
+
+<img src="https://img.shields.io/badge/CNN-Computer%20Vision-FF6F00?style=flat-square" alt="CNN"/>
+
+<img src="https://img.shields.io/badge/YOLOv8-Object%20Detection-111111?style=flat-square" alt="YOLOv8"/>
+
+<img src="https://img.shields.io/badge/Google%20Gemini-Generative%20AI-8E75B2?style=flat-square&logo=google" alt="Google Gemini"/>
+
 </p>
 
-`REST APIs` · `JWT Authentication`
+---
 
-### Databases
+## 🌐 Full-Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="left">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50"/>
+</a>
+
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50"/>
+</a>
+
+<a href="https://vite.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="50"/>
+</a>
+
 </p>
 
-### Tools & Platforms
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,kaggle" />
+
+<img src="https://img.shields.io/badge/REST%20APIs-API%20Development-02569B?style=flat-square" alt="REST APIs"/>
+
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens" alt="JWT"/>
+
 </p>
 
-`Google Colab`
+---
+
+## 🗄️ Databases
+
+<p align="left">
+
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50"/>
+</a>
+
+</p>
+
+---
+
+## 🔧 Tools & Platforms
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="50"/>
+</a>
+
+<a href="https://www.kaggle.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kaggle" alt="Kaggle" width="50"/>
+</a>
+
+<a href="https://colab.research.google.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=googlecolab" alt="Google Colab" width="50"/>
+</a>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 ## 🔬 Research Atlas
-### AI-Powered Academic Research Assistant
 
-**June 2026 – August 2026**
+### AI-Powered Academic Research Assistant
 
 A full-stack research platform designed to simplify academic literature discovery through a unified, searchable pipeline.
 
-### Highlights
+### Key Highlights
 
 - 🔎 Unified literature search across **6 academic APIs**
 - 📚 Integrated **OpenAlex, Crossref, Semantic Scholar, Europe PMC, arXiv and DBLP**
@@ -96,20 +192,21 @@ A full-stack research platform designed to simplify academic literature discover
 - 📖 Implemented user-specific research libraries and search history
 - ⚡ Added structured backend handling for API failures and rate limits
 
-**Tech Stack**
+### Tech Stack
 
 `React` `Vite` `Node.js` `Express.js` `MongoDB` `JWT` `Google Gemini API` `REST APIs`
 
 ---
 
 ## 🌱 AI Precision Farming
+
 ### Disease Detection & Localized Spraying
 
 **Research Project — National Institute of Technology, Patna**
 
 An AI-powered precision farming system designed for **real-time crop disease detection, geospatial mapping, and localized spraying**.
 
-### Highlights
+### Key Highlights
 
 - 🌿 Developed crop disease detection using **YOLOv8 + CNN**
 - 📍 Implemented **GPS-enabled geospatial mapping**
@@ -119,7 +216,7 @@ An AI-powered precision farming system designed for **real-time crop disease det
 - 📊 Achieved **92% detection accuracy**
 - 📈 Achieved **89% overall system accuracy**
 
-**Tech Stack**
+### Tech Stack
 
 `Python` `YOLOv8` `CNN` `OpenCV` `GPS APIs` `Geolocation APIs`
 
@@ -155,19 +252,38 @@ Worked on an AI-based smart agriculture system focused on **real-time crop monit
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MasumRaj479&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" />
+<a href="https://github.com/MasumRaj479">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=MasumRaj479&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github"
+    alt="Masum Raj GitHub Statistics"
+  />
+</a>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasumRaj479&layout=compact&hide_border=true&langs_count=8" />
+<a href="https://github.com/MasumRaj479">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasumRaj479&layout=compact&hide_border=true&langs_count=8"
+    alt="Masum Raj Most Used Languages"
+  />
+</a>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MasumRaj479&hide_border=true&area=true" />
+<a href="https://github.com/MasumRaj479">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=MasumRaj479&hide_border=true&area=true"
+  alt="Masum Raj GitHub Contribution Activity"
+/>
+
+</a>
 
 </div>
 
@@ -175,9 +291,44 @@ Worked on an AI-based smart agriculture system focused on **real-time crop monit
 
 # 🎯 Current Focus
 
-```text
-Artificial Intelligence       ███████████████████░  90%
-Machine Learning              ██████████████████░░  85%
-Full-Stack Development        █████████████████░░░  80%
-Data Structures & Algorithms  ████████████████░░░░  75%
-Generative AI                 ███████████████░░░░░  70%
+<div align="center">
+
+| Area | Focus |
+|------|-------|
+| 🤖 Artificial Intelligence | AI/ML & Computer Vision |
+| 🧠 Problem Solving | Data Structures & Algorithms |
+| 🌐 Development | Full-Stack Applications |
+| 🔬 Research | Generative AI & Applied AI |
+| 💻 Engineering | Scalable Software Solutions |
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/MasumRaj479">
+  <img src="https://img.shields.io/badge/GitHub-MasumRaj479-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/masum-raj-50608b2b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-Masum%20Raj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:masumraj479@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### Building • Learning • Researching • Innovating
+
+⭐ *Feel free to explore my repositories and projects.*
+
+</div>
